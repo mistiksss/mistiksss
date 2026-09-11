@@ -37,18 +37,6 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistiksss&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mistiksss&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-###
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mistiksss/mistiksss/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mistiksss/mistiksss/output/github-contribution-grid-snake.svg" />
