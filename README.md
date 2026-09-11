@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="535" viewBox="0 0 1176 535" role="img" aria-label="Mistik">
-  <title>Mistik</title>
-  <rect width="100%" height="100%" fill="#0d1116"/>
-  <text xml:space="preserve" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="72" font-weight="700">
-    <tspan x="48.0" y="112.0"> __  __ _     _   _ _    </tspan>
-    <tspan x="48.0" y="195.5">|  \/  (_)___| |_(_) | __</tspan>
-    <tspan x="48.0" y="279.0">| |\/| | / __| __| | |/ /</tspan>
-    <tspan x="48.0" y="362.6">| |  | | \__ \ |_| |   &lt; </tspan>
-    <tspan x="48.0" y="446.1">|_|  |_|_|___/\__|_|_|\_\</tspan>
-  </text>
-  <text xml:space="preserve" x="48.0" y="499.6" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="20" font-weight="700">$ python codeduel</text>
-  <text xml:space="preserve" x="1128.0" y="499.6" text-anchor="end" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="20" font-weight="700">Python, Flask, and the Web</text>
-</svg>
-
-###
+![Mistik](assets/banner.svg)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
