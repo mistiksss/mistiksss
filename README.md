@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ mistik / python coder</h1>
+<h1 align="center">mistik / coder</h1>
 
 ###
 
@@ -32,7 +32,6 @@
 
 <p align="center">
   <a href="https://github.com/mistiksss/codeduel"><strong>CodeDuel</strong></a>
-  — 1v1 дуэли по коду: матчмейкинг, Elo, realtime
 </p>
 
 ###
