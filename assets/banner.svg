@@ -9,6 +9,6 @@
     <tspan x="48.0" y="362.6">| |  | | \__ \ |_| |   &lt; </tspan>
     <tspan x="48.0" y="446.1">|_|  |_|_|___/\__|_|_|\_\</tspan>
   </text>
-  <text xml:space="preserve" x="48.0" y="499.6" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="20" font-weight="700">$ python codeduel</text>
+  <text xml:space="preserve" x="48.0" y="499.6" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="20" font-weight="700">$ python coder</text>
   <text xml:space="preserve" x="1128.0" y="499.6" text-anchor="end" fill="#b3b3b3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="20" font-weight="700">Python, Flask, and the Web</text>
 </svg>
